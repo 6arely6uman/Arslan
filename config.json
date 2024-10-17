@@ -1,20 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "Readme.pdf",
+  "title": "My Website",
+  "name": "Arslene Ben Hadj Yahia",
+  "ascii": "Arslene",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "arslenebhy@email.com",
+  "ps1_hostname": "web",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+  "resume_url": "Classic Resume #12851.pdf",
   },
   "colors": {
     "light": {
